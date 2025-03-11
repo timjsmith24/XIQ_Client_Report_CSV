@@ -117,7 +117,7 @@ header_format = workbook.add_format({
 })
 centered_hyp_format = workbook.add_format({
     'align': 'center',
-    'color': '#0000EE',
+    'font_color': '#0000EE',
     'underline': 1,
     'font_size': 10
 })
